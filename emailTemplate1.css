@@ -1,0 +1,42 @@
+
+.col-2 {
+background-color: rgb(107, 107, 107);
+}
+.col-3 {
+    background-color: rgb(32, 136, 136);
+}
+.col-6 {
+    background-color: rgb(213, 243, 233);
+}
+
+.mailbox {
+   text-align: center;
+}
+
+.mt-3{
+    background-color:rgb(32, 136, 136);
+    border-color: black;
+    color: black;
+}
+
+.list-group-item{
+    background-color: rgb(32, 136, 136);
+    border-color: black;
+    border-radius: ;
+}
+
+#emailTwo{
+    background-color: rgb(213, 243, 233);
+    border-color: black;
+    border-radius: 20px;
+}
+
+#emailOne{
+    border-color: black;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
